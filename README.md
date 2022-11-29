@@ -7,18 +7,10 @@
 
 
 ## :email: Find me on:
-
-<!--
-[<img align="left" alt="alexeberes.github.io" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]https://alexeberes.github.io
-[<img align="left" alt="AlexEBeres | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/alexeberes/
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]mailto:alex.e.beres@gmail.com
--->
-
 <p align="center">
- <a href="https://www.charalambosioannou.tech" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/charalambos-ioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-  <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://alexeberes.github.io" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/alexeberes/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:alex.e.beres@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 <br />
