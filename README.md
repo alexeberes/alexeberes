@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeberes&show_icons=true&theme=tokyonight) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeberes&exclude_repo=7110Z-VEX-Robotics-Competition-2020-2021&langs_count=7&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeberes&exclude_repo=7110Z-VEX-Robotics-Competition-2020-2021&langs_count=7&theme=vue)
